@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nicegroup</groupId>
-  <artifactId>java-dicegame</artifactId>
+  <artifactId>java-se-dicegame</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>java-dicegame</name>
+  <name>java-se-dicegame</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
