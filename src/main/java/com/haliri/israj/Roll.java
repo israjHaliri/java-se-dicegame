@@ -1,9 +1,6 @@
-package com.nicegroup;
-
-import org.omg.CORBA.INTERNAL;
+package com.haliri.israj;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**

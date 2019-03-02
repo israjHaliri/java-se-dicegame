@@ -1,4 +1,4 @@
-package com.nicegroup;
+package com.haliri.israj;
 
 import java.util.ArrayList;
 import java.util.List;
